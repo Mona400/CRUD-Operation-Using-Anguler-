@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Tamer",
+      "city": "gyza",
+      "built_no": 15,
+      "age": 27,
+      "email": "tamer@gmail.com",
+      "phone": "022222222"
+    },
+    {
+      "id": 3,
+      "name": "Sama",
+      "city": "El-sharkia",
+      "built_no": 25555,
+      "age": 22,
+      "email": "sama@gmail.com",
+      "phone": "0333333"
+    },
+    {
+      "id": 4,
+      "name": "Nada",
+      "city": "fayom",
+      "built_no": 255,
+      "age": 15,
+      "email": "nada@gmail.com",
+      "phone": "0444444"
+    },
+    {
+      "id": 5,
+      "name": "samy",
+      "city": "Alex",
+      "built_no": 155,
+      "age": 13,
+      "email": "samy@gmail.com",
+      "phone": "055555"
+    },
+    {
+      "id": 6,
+      "name": "Ola",
+      "city": "Zagazig",
+      "built_no": 11155,
+      "age": 14,
+      "email": "ola@gmail.com",
+      "phone": "0666666"
+    },
+    {
+      "id": 7,
+      "name": "noor",
+      "city": "zagza",
+      "built_no": 10,
+      "age": 22,
+      "email": "monasallam400@gmail.com",
+      "phone": 152
+    },
+    {
+      "id": 15,
+      "name": "mona",
+      "city": "mbjh",
+      "built_no": 10,
+      "age": 20,
+      "email": "monasallam400@gmail.com",
+      "phone": 11111
+    }
+  ]
+}
